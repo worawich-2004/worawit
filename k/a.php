@@ -25,8 +25,8 @@
 
     <h2>เลือกรูปภาพ (PHP Version)</h2>
 
-    <a href="?img=1.jpg" class="btn btn-green">ปุ่มสีเขียว (รูปที่ 1)</a>
-    <a href="?img=3.jpg" class="btn btn-yellow">ปุ่มสีเหลือง (รูปที่ 3)</a>
+    <img src="images/1.jpg"width="500"> class="btn btn-green">ปุ่มสีเขียว (รูปที่ 1)</a>
+    <img src="images/3.jpg"width="500"> class="btn btn-yellow">ปุ่มสีเหลือง (รูปที่ 3)</a>
 
     <div class="display-area">
         <?php

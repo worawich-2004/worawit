@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>วัชรพล เวชแพทย์ (หนึ่ง)</title>
+<title>วรวิช โนนแดง</title>
 
 <style>
     /* ตกแต่งปุ่มให้ดูสวยงาม */

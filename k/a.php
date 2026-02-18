@@ -23,8 +23,8 @@
     .btn-yes:hover { background-color: #218838; }
 
     /* สีปุ่ม NO (สีแดง) */
-    .btn-no { background-color: #dc3545; }
-    .btn-no:hover { background-color: #c82333; }
+    .btn-no { background-color: #ECDA0B; }
+    .btn-no:hover { background-color: #ECDA0B; }
 
     /* จัดแต่งรูปภาพ */
     #display-image {
